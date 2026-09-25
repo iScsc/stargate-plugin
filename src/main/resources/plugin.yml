@@ -1,0 +1,6 @@
+name: stargate-plugin
+version: '${version}'
+
+main: fr.iscsc.mc.stargatePlugin.StargatePlugin
+api-version: '26.2'
+load: POSTWORLD
